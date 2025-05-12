@@ -1,0 +1,1 @@
+   // printf("%d", matrix[n-1][n-2]);
